@@ -6,7 +6,7 @@
 		<artifactId>parentGen</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
 	</parent>
-	<artifactId>webappGen</artifactId>
+	<artifactId>webGen</artifactId>
 	<packaging>war</packaging>
 
 	<build>
